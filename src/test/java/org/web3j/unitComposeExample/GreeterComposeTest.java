@@ -1,10 +1,10 @@
+package org.web3j.unitComposeExample;
+
 import org.junit.jupiter.api.Test;
 import org.web3j.EVMComposeTest;
-import org.web3j.EVMTest;
 import org.web3j.protocol.Web3j;
 import org.web3j.tx.TransactionManager;
 import org.web3j.tx.gas.ContractGasProvider;
-import org.web3j.unitComposeExample.Greeter;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
